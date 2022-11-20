@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emerythiago&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=F8F8FF&text_color=F8F8FF&bg_color=0D1117" alt="Thiago Freire do Emery github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerythiago&layout=compact&hide_border=true&title_color=F8F8FF&text_color=F8F8FF&bg_color=0D1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerythiago&layout=compact&hide_border=true&title_color=F8F8FF&text_color=F8F8FF&bg_color=0D1117" />
 </div>
  
 ### Main skills:
